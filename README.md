@@ -1,8 +1,8 @@
 ### Hi there, I'm Arsky Developer 👋
 <img align="center" height="200" src="https://telegra.ph/file/b202464c74bba54f742b7.jpg"/>
-## I'm a Developer and Software Engineer!
-- 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
+## Aku Hanyalah Pemula Yang Ingin Berkarya !
+- 😊  Aku Bukan Mastah
+- ⚡  Aku Bukan Elite
 
 <br />
 
@@ -40,7 +40,7 @@
   <a name=Fabil&label=VIEWS&style=flat-square&color=#2ECC71" />
  </p>
 
-  |https://github.com/itsMySky
+  [Arsky](https://github.com/itsMySky)
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
