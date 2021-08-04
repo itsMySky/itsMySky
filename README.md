@@ -40,7 +40,7 @@
   <a name=Fabil&label=VIEWS&style=flat-square&color=#2ECC71" />
  </p>
 
-  [Arsky](https://github.com/itsMySky)
+  •[`Please Stars And Follow Me](https://github.com/itsMySky)
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
