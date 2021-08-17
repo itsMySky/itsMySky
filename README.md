@@ -1,6 +1,6 @@
 ### Hi there, I'm Arsky Developer 👋
 
-<img align="center" fit="fill" alt="GIF" src="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" />
+
 
 ## Aku Hanyalah Pemula Yang Ingin Berkarya !
 - 😊  Aku Bukan Mastah
