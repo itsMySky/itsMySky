@@ -33,9 +33,6 @@
 </p>
 
 <p align="center">
-  <a href="=https://instagram.com/itsMySky_"><img src="https://img.shields.io/badge/instagram-@arskystore._-15548997?style=for-the-badge&logo=instagram&logoColor=#ED4245&link=https://instagram.com/itsMySky_" /></a>
-  <a name=@itsMySky_&label=VIEWS&style=flat-square&color=#ED4245" />
-<p align="center">
   <a href="=https://wa.me/62895619083555"><img src="https://img.shields.io/badge/WHATSAPP-Arsky_-3066993?style=for-the-badge&logo=whatsapp&logoColor=#2ECC71&link=https://wa.me/62895357313000" /></a>
   <a name=Fabil&label=VIEWS&style=flat-square&color=#2ECC71" />
  </p>
