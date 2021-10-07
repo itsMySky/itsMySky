@@ -40,4 +40,5 @@
 
 ## Whatsapp Me
 [![itsMySky](https://github.com/itsMySky.png?size=100)](https://github.com/itsMySky)
-[`Whatsapp Arsky`](https://wa.me/6285945151961)
+
+[`Arsky`](https://wa.me/6285945151961)
