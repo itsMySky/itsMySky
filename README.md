@@ -38,4 +38,4 @@
   ~ [`Please Stars And Follow Me`](https://github.com/itsMySky)
 
 ## Whatsapp Me
-[![itsMySky](https://github.com/itsMySky.png?size=1000)](https://wa.me/6285945151961)
+[![itsMySky](https://github.com/itsMySky.png?size=500)](https://wa.me/6285945151961)
