@@ -39,4 +39,4 @@
 
 
 ## Whatsapp Me
-[![itsMySky](https://github.com/itsMySky.png?size=10)](https://wa.me/6285945151961)
+[![itsMySky](https://github.com/itsMySky.png?size=50)](https://wa.me/6285945151961)
