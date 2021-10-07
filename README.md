@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsMySky"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsMySky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FDLBOT&theme=onedark" /></a>
 </p>
 
@@ -41,8 +37,6 @@
 
   ~ [`Please Stars And Follow Me`](https://github.com/itsMySky)
 
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Hexagonz`](https://github.com/hexagonz)
-</p> 
+## Whatsapp Me
+[![itsMySky](https://github.com/itsMySky.png?size=100)](https://wa.me/6285945151961)
+----|----
