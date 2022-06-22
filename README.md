@@ -1,11 +1,8 @@
-### Hi there, I'm Arsky Developer 👋
+### Hi there, I'm Arsky👋
 
 
 
-## Aku Hanyalah Pemula Yang Ingin Berkarya !
-- 😊  Aku Bukan Mastah
-- ⚡  Aku Bukan Elite
-
+#
 <br />
 
 <p align="center">
@@ -31,14 +28,11 @@
 </p>
 
 <p align="center">
-  <a href="=https://wa.me/62895619083555"><img src="https://img.shields.io/badge/WHATSAPP-Arsky_-3066993?style=for-the-badge&logo=whatsapp&logoColor=#2ECC71&link=https://wa.me/62895357313000" /></a>
-  <a name=Fabil&label=VIEWS&style=flat-square&color=#2ECC71" />
+  <a href="=https://wa.me/6285745840290"><img src="https://img.shields.io/badge/WHATSAPP-Arsky_-3066993?style=for-the-badge&logo=whatsapp&logoColor=#2ECC71&link=https://wa.me/6285745840290" /></a>
+  <a name=Arsky Dev&label=VIEWS&style=flat-square&color=#2ECC71" />
  </p>
 
   ~ [`Please Stars And Follow Me`](https://github.com/itsMySky)
 
 
-## Whatsapp Me
-[![itsMySky](https://github.com/itsMySky.png?size=100)](https://github.com/itsMySky)
-
-[`Call Me Arsky`](https://wa.me/6285945151961)
+## Arigato
